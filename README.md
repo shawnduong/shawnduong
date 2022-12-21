@@ -4,3 +4,5 @@ My name is Shawn Duong, and I’m a hacker – not the kind that is really a “
 
 Website: [shawnd.xyz](https://shawnd.xyz/) \
 Team: [irissec.xyz](https://irissec.xyz/)
+
+I'm also a part of the team hosting IrisCTF 2023! Go register at [2023.irisc.tf](https://2023.irisc.tf/).
