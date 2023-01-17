@@ -19,7 +19,7 @@ I have a blog where I talk about my life and hijinks. Link: [shawnd.xyz/blog](ht
 - [Pacman Digest](https://github.com/shawnduong/pacman-digest): summarize package space usage for \*NIX systems using pacman.
 - [HackerPass](https://github.com/shawnduong/HackerPass): RFID-based authentication system for large events such as hackathons.
 - [mfrc522-mfccli](https://github.com/shawnduong/mfrc522-mfccli): CLI tool for Arduino MFRC522-compliant reader/writers.
-- [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation and auto-setup script.
+- [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation and auto-setup web tool.
 - [CTFx Archivist](https://github.com/IrisSec/ctfx-archivist): archive tool for CTFx that generates a GitHub pages compatible static site.
 - [(POC) CyberTrace](https://github.com/shawnduong/CyberTrace-poc): modular intrusion detection system that tracks, maps, and classifies cyberattacks.
 - [(POC) Amelior!](https://github.com/shawnduong/amelior-poc): mobile app that helps users reach their physical and mental health goals.
