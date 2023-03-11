@@ -15,9 +15,9 @@ I have a blog where I talk about my life and hijinks. Link: [shawnd.xyz/blog](ht
 (The following are incomplete lists, and only show highlighted work.)
 
 *Projects*
+- [Badger](https://badger.shawnd.xyz/): IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
 - [PXEnum](https://github.com/shawnduong/PXEnum): post exploitation enumeration script for \*NIX systems.
 - [Pacman Digest](https://github.com/shawnduong/pacman-digest): summarize package space usage for \*NIX systems using pacman.
-- [Badger](https://github.com/shawnduong/badger): IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
 - [mfrc522-mfccli](https://github.com/shawnduong/mfrc522-mfccli): CLI tool for Arduino MFRC522-compliant reader/writers.
 - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation and auto-setup web tool.
 - [CTFx Archivist](https://github.com/IrisSec/ctfx-archivist): archive tool for CTFx that generates a GitHub pages compatible static site.
@@ -28,8 +28,9 @@ I have a blog where I talk about my life and hijinks. Link: [shawnd.xyz/blog](ht
 - [crt-monochrome](https://github.com/shawnduong/crt-monochrome): IrisSec website theme.
 - [hello.xyz](https://github.com/shawnduong/hello.xyz): my personal website theme.
 
-*Hosted CTFs*
-- [IrisCTF 2023](http://2023.irisc.tf/)
+*Events*
+- [IrisCTF 2023](https://2023.irisc.tf/)
+- [Hack the Planet!}(https://hacktheplanet.shawnd.xyz/)
 
 *Workshops*
 - [Hack the Tracks!](https://github.com/shawnduong/Hack-the-Tracks): Fall 2022 @ UC Merced, taught students network hacking, web exploitation, systems exploitation, privilege escalation, and more in order to root a model railroad system and speed up, slow down, reverse, derail, and crash trains.
