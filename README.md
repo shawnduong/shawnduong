@@ -30,7 +30,7 @@ I have a blog where I talk about my life and hijinks. Link: [shawnd.xyz/blog](ht
 
 *Events*
 - [IrisCTF 2023](https://2023.irisc.tf/)
-- [Hack the Planet!}(https://hacktheplanet.shawnd.xyz/)
+- [Hack the Planet!](https://hacktheplanet.shawnd.xyz/)
 
 *Workshops*
 - [Hack the Tracks!](https://github.com/shawnduong/Hack-the-Tracks): Fall 2022 @ UC Merced, taught students network hacking, web exploitation, systems exploitation, privilege escalation, and more in order to root a model railroad system and speed up, slow down, reverse, derail, and crash trains.
