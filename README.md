@@ -1,8 +1,10 @@
 ### $ cat /home/skat/README.md
 
+**Notice:** I'm currently on hiatus and unsure when it'll end.
+
 rf/net/forens hacker. Shawn Duong, aka skat. Known for my hijinks. I investigate and take down cybercriminal operations sometimes.
 
-Recent grad looking for work. SoCal, Central Valley, or remote preferred. Contact me: [shawnd.xyz/contact](https://shawnd.xyz/contact)
+I do network stuff at the University of California, Merced. Want me to work for your company? Contact me: [shawnd.xyz/contact](https://shawnd.xyz/contact)
 
 Affiliations:
 - [IrisSec](https://irissec.xyz/), founder/admin + rf/net/forens specialist
