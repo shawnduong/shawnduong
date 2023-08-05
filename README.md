@@ -1,32 +1,68 @@
-### $ cat /home/skat/README.md
+# $ cat /home/skat/README.md
 
-rf/net/forens hacker. Shawn Duong, aka skat. Known for my hijinks. I investigate and take down cybercriminal operations sometimes.
+rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog where I talk about my life and hijinks: [shawnd.xyz/blog](https://shawnd.xyz/blog)
 
-I do network stuff at the University of California, Merced. Want me to work for your company? Contact me: [shawnd.xyz/contact](https://shawnd.xyz/contact)
+### *Affiliations*
 
-Affiliations:
 - [IrisSec](https://irissec.xyz/), founder/admin + rf/net/forens specialist
-- [Vaccinator](https://vaccinator.tech/), new guy
+- [HackMerced](https://hackmerced.com/), Director of Special Projects Engineering '22-'23, now mentor
 
-I have a blog where I talk about my life and hijinks. Link: [shawnd.xyz/blog](https://shawnd.xyz/blog)
+### *Currently Working On*
 
-***Highlights***
+- Badger One
+- Rice Cooker rewrite
 
-(The following are incomplete lists, and only show highlighted work.)
+### *Highlights*
+
+(The following are incomplete lists and only show highlighted work.)
 
 *Projects*
-- [Badger](https://badger.shawnd.xyz/): IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
-- [PXEnum](https://github.com/shawnduong/PXEnum): post exploitation enumeration script for \*NIX systems.
-- [Pacman Digest](https://github.com/shawnduong/pacman-digest): summarize package space usage for \*NIX systems using pacman.
-- [mfrc522-mfccli](https://github.com/shawnduong/mfrc522-mfccli): CLI tool for Arduino MFRC522-compliant reader/writers.
-- [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation and auto-setup web tool.
-- [CTFx Archivist](https://github.com/IrisSec/ctfx-archivist): archive tool for CTFx that generates a GitHub pages compatible static site.
-- [(POC) CyberTrace](https://github.com/shawnduong/CyberTrace-poc): modular intrusion detection system that tracks, maps, and classifies cyberattacks.
-- [(POC) Amelior!](https://github.com/shawnduong/amelior-poc): mobile app that helps users reach their physical and mental health goals.
+- Complete
+  - [ath](https://github.com/shawnduong/ath): a simple circuit board and associated Arduino code that display a binary message with LEDs, one nibble at a time.
+  - [Badger](https://badger.shawnd.xyz/): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
+  - [CRT Monochrome](https://github.com/shawnduong/crt-monochrome): a minimalist text-first Jekyll theme taking inspiration from old monochrome CRT screens.
+  - [CTFx Archivist](https://github.com/shawnduong/ctfx-archivist): archive tool for CTFx that generates a GitHub pages compatible static site.
+  - [MFRC522 MFCCLI](https://github.com/shawnduong/mfrc522-mfccli): Mifare Classic CLI tool for Arduino MFRC522-compliant reader/writers.
+  - [hello.xyz](https://github.com/shawnduong/hello.xyz): a lightweight, fast, and minimalistic personal website Jekyll theme fit for portfolios, blogs, and more.
+  - [mass-ytdl](https://github.com/shawnduong/mass-ytdl): a mass youtube-dl script for downloading large quantities of music with metadata. Requires Python, youtube-dl, ffmpeg, and xlrd.
+  - [Pacman Digest](https://github.com/shawnduong/pacman-digest): Generate a digest of package space usage for Linux systems using pacman.
+  - [PXEnum](https://github.com/shawnduong/PXEnum): a shell script that automatically performs a series of *NIX enumeration tasks.
+  - [py2j](https://github.com/shawnduong/py2j): a lightweight Python library that converts YAML data to JSON.
+- In Development
+  - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
+  - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
+  - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
+- PoCs
+  - [Amelior PoC](https://github.com/shawnduong/amelior-poc): a health app that processes data collected from users and communicates it back to them in such a way that they can meaningfully utilize the information to better their lifestyles.
+  - [CyberTrace PoC](https://github.com/shawnduong/CyberTrace-poc): a new way to track and geographically map cyberattacks, in junction with a modular and extensible attack classification framework. Proof of concept, demo'ed in 2021.
+- Unmaintained
+  - [Zero to Hero Hacking](https://github.com/shawnduong/zero-to-hero-hacking): a comprehensive, live guide to computer hacking. This is a continuous WIP and is largely incomplete as of now.
+- Forks
+  - [Mark Text](https://github.com/shawnduong/marktext): Shawn's MarkText fork with automatic file reloading.
+- Other
+  - [CSE 168 Final](https://github.com/shawnduong/cse168-final): final project for CSE168 by Shawn Duong, Chloe Engel, Charison Gill-Branion, and Isabella Montoya.
+  - [dotfiles](https://github.com/shawnduong/dotfiles): my Arch Linux + i3-gaps rice setup.
+  - [manimations](https://github.com/shawnduong/manimations): a repository for all of my animations in manim.
+- Private
+  - [CSE 150](https://github.com/shawnduong/CSE150): F21 CSE150 projects by Ryan Chazen, Shawn Duong, Samish Kavoori, Crystal Ling, Isabella Montoya, and David Ng at the University of California, Merced.
+  - [CSE 160](https://github.com/shawnduong/CSE160): F21 CSE160 projects by Nathan Edwards and Shawn Duong.
+  - [EECS 262](https://github.com/shawnduong/eecs262): my source code for the experiments and research as a part of my "Comparison of Data Dissemination Protocols in Multi-hop Wireless Sensor Networks" paper.
+  - [Hack the Planet HM VIII](https://github.com/shawnduong/Hack-the-Planet-hm8): source files for the "Hack the Planet!" event at HackMerced VIII.
+  - [Notion Finances Visualized](https://github.com/shawnduong/notion-finances-visualized): data visualization scripts for my Notion finance tracker template.
+- Archived
+  - [HackerPass](https://github.com/shawnduong/HackerPass): an RFID-based authentication system for large events such as hackathons. Rebranded as [Badger](https://badger.shawnd.xyz/).
+  - [Rufus Botcat](https://github.com/shawnduong/rufus-botcat): a Discord bot that helps UC Merced students register for their classes by alerting them when seats open up.
+  - [switchlib](https://github.com/shawnduong/switchlib): Python library for interacting with Cisco and Brocade network switches. Written and documented for the average network engineer.
+  - [UC Merced Registration Eye](https://github.com/shawnduong/UCM-RegE): a Python script that helps students get the classes they need by alerting them when seats open up. Succeeded by [Rufus Botcat](https://github.com/shawnduong/rufus-botcat).
 
-*Web*
-- [crt-monochrome](https://github.com/shawnduong/crt-monochrome): IrisSec website theme.
-- [hello.xyz](https://github.com/shawnduong/hello.xyz): my personal website theme.
+*Websites*
+- [shawnd.xyz](https://shawnd.xyz/): my personal website.
+- [irissec.xyz](https://irissec.xyz/): IrisSec team website.
+- [irisc.tf](https://irisc.tf/): IrisCTF website.
+
+*Templates*
+- [Flask Template](https://github.com/shawnduong/flask-template): boilerplate code for my Flask projects.
+- [Vue Template](https://github.com/shawnduong/vue-template): boilerplate code for my Vue projects.
 
 *Events*
 - [IrisCTF 2023](https://2023.irisc.tf/)
