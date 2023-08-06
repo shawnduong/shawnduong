@@ -11,6 +11,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
 
 - Badger One
 - Rice Cooker rewrite
+- Hacking LT-T6 lamps
 
 ### *Highlights*
 
