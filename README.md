@@ -70,6 +70,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
 - [Hack the Planet!](https://hacktheplanet.shawnd.xyz/)
 
 *Workshops*
+- [Intro to Back-End](https://github.com/shawnduong/Intro-to-Back-End): skeleton code for my "Intro to Back-End" workshop delivered 2023.08.20 at the University of California, Merced.
 - [Hack the Tracks!](https://github.com/shawnduong/Hack-the-Tracks): Fall 2022 @ UC Merced, taught students network hacking, web exploitation, systems exploitation, privilege escalation, and more in order to root a model railroad system and speed up, slow down, reverse, derail, and crash trains.
 - [Hack the Packet!](https://github.com/shawnduong/Hack-the-Packet): Fall 2022 @ UC Merced, taught students packet sniffing in order to recover credentials from a 5-hour-long network replay.
 - SEA x ENGRSL Python Workshop Series
