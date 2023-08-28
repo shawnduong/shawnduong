@@ -36,8 +36,6 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
 - PoCs
   - [Amelior PoC](https://github.com/shawnduong/amelior-poc): a health app that processes data collected from users and communicates it back to them in such a way that they can meaningfully utilize the information to better their lifestyles.
   - [CyberTrace PoC](https://github.com/shawnduong/CyberTrace-poc): a new way to track and geographically map cyberattacks, in junction with a modular and extensible attack classification framework. Proof of concept, demo'ed in 2021.
-- Unmaintained
-  - [Zero to Hero Hacking](https://github.com/shawnduong/zero-to-hero-hacking): a comprehensive, live guide to computer hacking. This is a continuous WIP and is largely incomplete as of now.
 - Forks
   - [MarkText](https://github.com/shawnduong/marktext): Shawn's MarkText fork with automatic file reloading.
 - Other
@@ -55,6 +53,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
   - [Rufus Botcat](https://github.com/shawnduong/rufus-botcat): a Discord bot that helps UC Merced students register for their classes by alerting them when seats open up.
   - [switchlib](https://github.com/shawnduong/switchlib): Python library for interacting with Cisco and Brocade network switches. Written and documented for the average network engineer.
   - [UC Merced Registration Eye](https://github.com/shawnduong/UCM-RegE): a Python script that helps students get the classes they need by alerting them when seats open up. Succeeded by [Rufus Botcat](https://github.com/shawnduong/rufus-botcat).
+  - [Zero to Hero Hacking](https://github.com/shawnduong/zero-to-hero-hacking): this repository is deprecated. See [02h.shawnd.xyz](https://02h.shawnd.xyz) instead.
 
 *Websites*
 - [shawnd.xyz](https://shawnd.xyz/): my personal website.
