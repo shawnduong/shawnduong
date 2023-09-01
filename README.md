@@ -32,6 +32,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
 - In Development
   - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
   - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
+  - [RC522](https://github.com/shawnduong/rc522): WIP, a hopefully soon-to-be-totally-complete library for the RC522 for the Arduino core. 
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
 - PoCs
   - [Amelior PoC](https://github.com/shawnduong/amelior-poc): a health app that processes data collected from users and communicates it back to them in such a way that they can meaningfully utilize the information to better their lifestyles.
