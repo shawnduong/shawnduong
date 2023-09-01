@@ -39,6 +39,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
 - Forks
   - [MarkText](https://github.com/shawnduong/marktext): Shawn's MarkText fork with automatic file reloading.
 - Other
+  - [02h](https://02h.shawnd.xyz): Zero to Hero, a knowledge base for all sorts of computer hacking. This website is maintained as a personal passion project.
   - [CSE 168 Final](https://github.com/shawnduong/cse168-final): final project for CSE168 by Shawn Duong, Chloe Engel, Charison Gill-Branion, and Isabella Montoya.
   - [dotfiles](https://github.com/shawnduong/dotfiles): my Arch Linux + i3-gaps rice setup.
   - [manimations](https://github.com/shawnduong/manimations): a repository for all of my animations in manim.
