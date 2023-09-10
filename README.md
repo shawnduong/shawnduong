@@ -31,6 +31,7 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
   - [py2j](https://github.com/shawnduong/py2j): a lightweight Python library that converts YAML data to JSON.
 - In Development
   - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
+  - [htpm](https://github.com/shawnduong/htpm): "Hack the Planet! mini" source code, docs, and schematics for the event platform.
   - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
   - [RC522](https://github.com/shawnduong/rc522): WIP, a hopefully soon-to-be-totally-complete library for the RC522 for the Arduino core. 
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
