@@ -83,6 +83,8 @@ rf/net/forens hacker. Shawn Duong, aka skat. Maker and breaker. I run a blog whe
   - [Fall 2020 @ UC Merced](https://github.com/shawnduong/2020-Fall-UCM-ESL-Python-Workshop), introduced students to Python to create a series of simple games. Conducted remotely during the pandemic.
 
 *Highlighted Writeups*
+- [A Walk Through a Complete Digital Forensic Investigation](https://shawnd.xyz/blog/2023-09-07/A-Walk-Through-a-Complete-Digital-Forensic-Investigation)
+- [IrisCTF 2023 Select Forensics, RF, and Networking Writeups](https://shawnd.xyz/blog/2023-01-26/IrisCTF-2023-Select-Forensics-RF-and-Networking-Writeups)
 - [A Dive Into IPv6: Forcing Hosts to Change IPs Using Rogue Router Advertisements](https://shawnd.xyz/blog/2022-08-11/A-Dive-Into-IPv6-Forcing-Hosts-to-Change-IPs-Using-Rogue-Router-Advertisements)
 - [Attacking OTP Using a Biased Key Generation](https://shawnd.xyz/blog/2022-08-04/Attacking-OTP-Using-a-Biased-Key-Generation)
 - [Extracting Data Hidden in ARP Frames](https://shawnd.xyz/blog/2022-07-28/Extracting-Data-Hidden-in-ARP-Frames)
