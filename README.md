@@ -1,6 +1,6 @@
 # $ cat /home/skat/README.md
 
-rf/net/forens hacker. Shawn Kathleen, aka skat. Maker and breaker. I run a blog where I talk about my life and hijinks: [shawnd.xyz/blog](https://shawnd.xyz/blog)
+rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker. I run a blog where I talk about my life and hijinks: [shawnd.xyz/blog](https://shawnd.xyz/blog)
 
 ### *Affiliations*
 
