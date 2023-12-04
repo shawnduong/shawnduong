@@ -9,10 +9,14 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
 
 ### *Currently Working On*
 
+- IrisCTF
+
+### *Near Future*
+
 - Badger One
 - Rice Cooker rewrite
 - Hacking LT-T6 lamps
-- Hack the Planet! mini
+- Cleaning up my site and GitHub
 
 ### *Highlights*
 
