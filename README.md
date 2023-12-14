@@ -2,6 +2,8 @@
 
 rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker. I run a blog where I talk about my life and hijinks: [shawnd.xyz/blog](https://shawnd.xyz/blog)
 
+I'm looking for my next career move. Send me a message at [shawnd.xyz/contact](https://shawnd.xyz/contact).
+
 ### *Affiliations*
 
 - [IrisSec](https://irissec.xyz/), founder/admin + rf/net/forens specialist
