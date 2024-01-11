@@ -2,8 +2,6 @@
 
 rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker. I run a blog where I talk about my life and hijinks: [shawnd.xyz/blog](https://shawnd.xyz/blog)
 
-I'm looking for my next career move. Send me a message at [shawnd.xyz/contact](https://shawnd.xyz/contact).
-
 ### *Affiliations*
 
 - [IrisSec](https://irissec.xyz/), founder/admin + rf/net/forens specialist
@@ -11,11 +9,11 @@ I'm looking for my next career move. Send me a message at [shawnd.xyz/contact](h
 
 ### *Currently Working On*
 
-- IrisCTF
+- IrisCTF 2024 wrap-up
+- Badger One
 
 ### *Near Future*
 
-- Badger One
 - Rice Cooker rewrite
 - Hacking LT-T6 lamps
 - Cleaning up my site and GitHub
@@ -58,6 +56,7 @@ I'm looking for my next career move. Send me a message at [shawnd.xyz/contact](h
   - [EECS 262](https://github.com/shawnduong/eecs262): my source code for the experiments and research as a part of my "Comparison of Data Dissemination Protocols in Multi-hop Wireless Sensor Networks" paper.
   - [Hack the Planet HM VIII](https://github.com/shawnduong/Hack-the-Planet-hm8): source files for the "Hack the Planet!" event at HackMerced VIII.
   - [Notion Finances Visualized](https://github.com/shawnduong/notion-finances-visualized): data visualization scripts for my Notion finance tracker template.
+  - [saarCTF 2023](https://github.com/shawnduong/saarctf-2023): attack and defense script codebase for team "One Big Eyeball" at saarCTF 2023.
 - Archived
   - [HackerPass](https://github.com/shawnduong/HackerPass): an RFID-based authentication system for large events such as hackathons. Rebranded as [Badger](https://badger.shawnd.xyz/).
   - [Rufus Botcat](https://github.com/shawnduong/rufus-botcat): a Discord bot that helps UC Merced students register for their classes by alerting them when seats open up.
@@ -75,6 +74,7 @@ I'm looking for my next career move. Send me a message at [shawnd.xyz/contact](h
 - [Vue Template](https://github.com/shawnduong/vue-template): boilerplate code for my Vue projects.
 
 *Events*
+- [IrisCTF 2024](https://2023.irisc.tf/)
 - [IrisCTF 2023](https://2023.irisc.tf/)
 - [Hack the Planet!](https://hacktheplanet.shawnd.xyz/)
 
