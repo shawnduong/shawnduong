@@ -42,6 +42,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
 - PoCs
   - [Amelior PoC](https://github.com/shawnduong/amelior-poc): a health app that processes data collected from users and communicates it back to them in such a way that they can meaningfully utilize the information to better their lifestyles.
+  - [Badger PoC](https://github.com/shawnduong/badger-poc): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
   - [CyberTrace PoC](https://github.com/shawnduong/CyberTrace-poc): a new way to track and geographically map cyberattacks, in junction with a modular and extensible attack classification framework. Proof of concept, demo'ed in 2021.
 - Forks
   - [MarkText](https://github.com/shawnduong/marktext): Shawn's MarkText fork with automatic file reloading.
