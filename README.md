@@ -25,7 +25,6 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
 *Projects*
 - Complete
   - [ath](https://github.com/shawnduong/ath): a simple circuit board and associated Arduino code that display a binary message with LEDs, one nibble at a time.
-  - [Badger](https://badger.shawnd.xyz/): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
   - [CRT Monochrome](https://github.com/shawnduong/crt-monochrome): a minimalist text-first Jekyll theme taking inspiration from old monochrome CRT screens.
   - [CTFx Archivist](https://github.com/shawnduong/ctfx-archivist): archive tool for CTFx that generates a GitHub pages compatible static site.
   - [MFRC522 MFCCLI](https://github.com/shawnduong/mfrc522-mfccli): Mifare Classic CLI tool for Arduino MFRC522-compliant reader/writers.
@@ -35,6 +34,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - [PXEnum](https://github.com/shawnduong/PXEnum): a shell script that automatically performs a series of *NIX enumeration tasks.
   - [py2j](https://github.com/shawnduong/py2j): a lightweight Python library that converts YAML data to JSON.
 - In Development
+  - [Badger One](https://badger.shawnd.xyz/): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
   - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
   - [htpm](https://github.com/shawnduong/htpm): "Hack the Planet! mini" source code, docs, and schematics for the event platform.
   - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
