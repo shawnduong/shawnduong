@@ -75,7 +75,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
 - [Vue Template](https://github.com/shawnduong/vue-template): boilerplate code for my Vue projects.
 
 *Events*
-- [IrisCTF 2024](https://2023.irisc.tf/)
+- [IrisCTF 2024](https://2024.irisc.tf/)
 - [IrisCTF 2023](https://2023.irisc.tf/)
 - [Hack the Planet!](https://hacktheplanet.shawnd.xyz/)
 
