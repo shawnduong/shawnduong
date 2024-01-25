@@ -36,9 +36,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
 - In Development
   - [Badger One](https://badger.shawnd.xyz/): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
   - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
-  - [htpm](https://github.com/shawnduong/htpm): "Hack the Planet! mini" source code, docs, and schematics for the event platform.
   - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
-  - [RC522](https://github.com/shawnduong/rc522): WIP, a hopefully soon-to-be-totally-complete library for the RC522 for the Arduino core. 
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
 - PoCs
   - [Amelior PoC](https://github.com/shawnduong/amelior-poc): a health app that processes data collected from users and communicates it back to them in such a way that they can meaningfully utilize the information to better their lifestyles.
@@ -56,8 +54,10 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - [CSE 160](https://github.com/shawnduong/CSE160): F21 CSE160 projects by Nathan Edwards and Shawn Duong.
   - [EECS 262](https://github.com/shawnduong/eecs262): my source code for the experiments and research as a part of my "Comparison of Data Dissemination Protocols in Multi-hop Wireless Sensor Networks" paper.
   - [Hack the Planet HM VIII](https://github.com/shawnduong/Hack-the-Planet-hm8): source files for the "Hack the Planet!" event at HackMerced VIII.
+  - [htpm-lld23](https://github.com/shawnduong/htpm-lld23): "Hack the Planet! mini" source code, docs, and schematics for the event platform for Local Learn Day 2023.
   - [Notion Finances Visualized](https://github.com/shawnduong/notion-finances-visualized): data visualization scripts for my Notion finance tracker template.
   - [saarCTF 2023](https://github.com/shawnduong/saarctf-2023): attack and defense script codebase for team "One Big Eyeball" at saarCTF 2023.
+  - [ZenseCTF 2023 Forensics](https://github.com/shawnduong/zensectf-2023-forensics): source code for my forensic challenge series from ZenseCTF 2023.
 - Archived
   - [HackerPass](https://github.com/shawnduong/HackerPass): an RFID-based authentication system for large events such as hackathons. Rebranded as [Badger](https://badger.shawnd.xyz/).
   - [Rufus Botcat](https://github.com/shawnduong/rufus-botcat): a Discord bot that helps UC Merced students register for their classes by alerting them when seats open up.
