@@ -46,7 +46,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - Forks
     - [MarkText](https://github.com/shawnduong/marktext): Shawn's MarkText fork with automatic file reloading.
 - In Development
-  - [Badger](https://badger.shawnd.xyz/): an open source IoT RFID-based authentication, attendance tracking, notification, and rewards system for small to large scale events.
+  - [Badger](https://badger.shawnd.xyz/): Badger is a complete event management platform for medium to large events.
   - [hacknox](https://github.com/shawnduong/hacknox): KOTH CTF in a briefcase.
   - [OpenHive](https://github.com/shawnduong/openhive): free your Aerohives from Extreme's proprietary vendor-locked SaaS management platform.
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
