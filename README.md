@@ -51,12 +51,12 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - [Rice Cooker](https://github.com/shawnduong/rice-cooker): configurable Arch Linux auto-installation scripting.
 - Other
   - [02h](https://02h.shawnd.xyz): Zero to Hero, a knowledge base for all sorts of computer hacking. This website is maintained as a personal passion project.
-  - [CSE 168 Final](https://github.com/shawnduong/cse168-final): final project for CSE168 by Shawn Duong, Chloe Engel, Charison Gill-Branion, and Isabella Montoya.
   - [dotfiles](https://github.com/shawnduong/dotfiles): my Arch Linux + i3-gaps rice setup.
   - [manimations](https://github.com/shawnduong/manimations): a repository for all of my animations in manim.
 - Private\*
   - [CSE 150](https://github.com/shawnduong/CSE150): F21 CSE150 projects by Ryan Chazen, Shawn Duong, Samish Kavoori, Crystal Ling, Isabella Montoya, and David Ng at the University of California, Merced.
   - [CSE 160](https://github.com/shawnduong/CSE160): F21 CSE160 projects by Nathan Edwards and Shawn Duong.
+  - [CSE 168 Final](https://github.com/shawnduong/cse168-final): final project for CSE168 by Shawn Duong, Chloe Engel, Charison Gill-Branion, and Isabella Montoya.
   - [EECS 262](https://github.com/shawnduong/eecs262): my source code for the experiments and research as a part of my "Comparison of Data Dissemination Protocols in Multi-hop Wireless Sensor Networks" paper.
   - [Hack the Planet HM VIII](https://github.com/shawnduong/Hack-the-Planet-hm8): source files for the "Hack the Planet!" event at HackMerced VIII.
   - [htpm-lld23](https://github.com/shawnduong/htpm-lld23): "Hack the Planet! mini" source code, docs, and schematics for the event platform for Local Learn Day 2023.
@@ -64,7 +64,7 @@ rf/net/forens hacker. Shawn Duong, aka Shawn "skat" Kathleen. Maker and breaker.
   - [saarCTF 2023](https://github.com/shawnduong/saarctf-2023): attack and defense script codebase for team "One Big Eyeball" at saarCTF 2023.
   - [ZenseCTF 2023 Forensics](https://github.com/shawnduong/zensectf-2023-forensics): source code for my forensic challenge series from ZenseCTF 2023.
  
-\* For access, please email me@shawnd.xyz and explain why you'd like to view them.
+\* For access, please email me@shawnd.xyz and explain why you'd like to view them. Academic dishonesty is not a valid reason.
 
 *Websites*
 - [shawnd.xyz](https://shawnd.xyz/): my personal website.
